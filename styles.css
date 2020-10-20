@@ -100,9 +100,10 @@ body, html {
 
 .img-left {
   float: left;
-  width: 60%;
+  width: 65%;
   margin: auto;
-  padding-right: 15px;
+  padding-right: 30px;
+  padding-top: 30px;
 }
 
 .img-right {
@@ -114,13 +115,20 @@ body, html {
 
 p {
   margin: 5.5%;
+  font-size: 18px;
+  font-family: sans-serif;
 }
 
-#wrapper {
-  margin: 15px auto;
-  width: 90%;
-  background-color: rgba(255, 255, 255, 0.5);
-  color: black;
+.p-block {
+  width: 50%;
+  margin: auto;
+  padding-top: 20px;
+  font-family: sans-serif;
+  font-size: 18px;
+}
+
+.text-float-left {
+  align-self: stretch;
 }
 
 .center {
@@ -141,6 +149,11 @@ footer {
 footer a {
   color: #194035;
   text-decoration: none;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
 }
 
 /* --------
