@@ -175,7 +175,7 @@ Media Queries
   }
   
  img {
-   padding: 20px;
+   padding-bottom: 20px;
 }
 
 /* ----
@@ -197,7 +197,7 @@ END Laptop or tablet styles below
   }
  
   img {
-   padding: 20px;
+   padding-bottom: 20px;
 }
 }
 
