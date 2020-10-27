@@ -195,6 +195,10 @@ END Laptop or tablet styles below
     clear: both;
     content: "";
   }
+ 
+  img {
+   padding: 20px;
+}
 }
 
 /* ---- END Very large Desktop styles below ---- */
