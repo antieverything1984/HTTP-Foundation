@@ -173,6 +173,9 @@ Media Queries
     clear: both;
     content: "";
   }
+  
+ img {
+   padding: 20px;
 }
 
 /* ----
